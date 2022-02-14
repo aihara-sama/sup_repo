@@ -1,0 +1,3 @@
+[submodule "sub_repo"]
+	path = sub_repo
+	url = https://github.com/aihara-sama/sub_repo
